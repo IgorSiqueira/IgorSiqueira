@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Olá! Sou o Igor Siqueira, desenvolvedor PHP/Laravel de Belo Horizonte, apaixonado por tecnologia, boas práticas de código e aquele bom café.<br><br>🔭 Atualmente trabalhando em: Integrações de pagamento e microservices<br>👯 Busco colaborar em: Projetos que precisem de um dev “mão na massa” com foco em produto<br>🌱 Estou aprendendo: Arquitetura distribuída e boas práticas de DevOps<br>💬 Pergunte-me sobre: Laravel, SOLID, Clean Code e como manter o bom humor sob pressão<br>⚡ Fato curioso: Minha técnica favorita de debug é ouvir trilha sonora de filme enquanto aperto F5<br>
 
 
